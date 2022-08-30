@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdulrafayyamir](https://github.com/abdulrafayyamir)
 
-- 💬 Ask me about **Python,C++**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **abdulrafayamir002@gmail.com**
 

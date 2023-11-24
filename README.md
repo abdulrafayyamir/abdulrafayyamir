@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdulrafayyamir](https://github.com/abdulrafayyamir)
-
-- 💬 Ask me about **Python**
 
 - 📫 How to reach me **abdulrafayamir002@gmail.com**
 
